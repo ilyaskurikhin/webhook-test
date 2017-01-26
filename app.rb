@@ -1,6 +1,7 @@
 require 'sinatra'
 require 'json'
 require 'git'
+require 'rubygems'
 
 
 post '/payload' do
